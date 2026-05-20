@@ -42,6 +42,15 @@ Different categories contribute to revenue in distinct ways: some through high p
 - Sales grew rapidly in 2017 and stabilized in 2018, with a peak in November (likely due to seasonal events).
 - Health & Beauty leads in revenue, while Watches & Gifts has the highest ticket value and Bed Bath Table the highest order volume.
 
+## Interactive Dashboard
+
+[![Ver Video Demo de Power BI](https://cdn.loom.com/sessions/thumbnails/a9aea8de7c644af580b18109e3c541a8-6f57e3b365571501-full-play.gif)](https://www.loom.com/share/a9aea8de7c644af580b18109e3c541a8)
+
+## Key Insights
+- Impact of Delivery Time on Satisfaction: It was found that longer delivery times cause a significant drop in the average rating.
+- Fulfillment Status: 7.85% of orders were delayed.
+- Metrics by Category: Analysis of average order value and sales volume.
+
 ## Conclusion
 Delivery performance is a key driver of customer satisfaction, highlighting the importance of optimizing logistics operations.
 
